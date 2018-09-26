@@ -1,4 +1,4 @@
-# My Resume
+# Resume
 
 *A simple Jekyll + GitHub Pages powered resume based on [jglovier/resume-template](https://github.com/jglovier/resume-templatee).*
 
