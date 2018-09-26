@@ -1,5 +1,7 @@
 # Resume template
 
+TODO: update this 
+
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)

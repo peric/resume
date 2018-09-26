@@ -1,16 +1,86 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: capistrano-jspm
+  url: https://github.com/peric/capistrano-jspm
+  role: Web Developer
+  duration: 2016
+  description: Capistrano extension for jspm (native ES modules CDN).
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
+- project: flasknose
+  url: https://github.com/peric/flasknose
+  role: Web Developer
+  duration: 2014 &mdash; 2015
+  description: Chrome extension that can analyse, evaluate and give useful recommendations for given website. Built for the purpose of master's thesis.
+
+- project: wparser
+  url: https://github.com/peric/wparser
+  role: Web Developer
+  duration: 2014
+  description: Website parser built with PhantomJS/Python built for the purpose of master's thesis.
+
+- project: Wote
+  url: http://woteapp.herokuapp.com/
+  role: Web Developer
+  duration: 2014
+  description: Voting app that helped me to collect data for my master's thesis - built with Ruby on Rails.
+
+- project: GetCountries
+  url: http://peric.github.io/GetCountries/
+  role: Web Developer
   duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom Countries data. Project was born on a lazy Sunday afternoon - well, at least the first jQuery version of it. Instead of dealing with bigger picture problems, I have stumbled upon a problem and solved it by building this helper application. Same evening, I have wrote an article and published it on HackerNews - since then, project has received 320+ stars on GitHub and quite some contributers. In 2015, I did a complete rewrite by using React, which replaced most of ugly jQuery code.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Simple Dashboard (Zemanta)
+  url: http://youtu.be/XtyywGyEtpA
+  role: Web Developer
+  duration: 2012
+  description: I have made a simple dashboard that was showing some interesting data like retweets, shares, relates etc. I have used JS, JQuery, Google Charts, Django and data from Solr.
+
+- project: Trello burndown chart
+  url: https://echobehind.wordpress.com/2012/06/28/create-your-own-burndown-chart-using-trello-api-and-google-apps-script/
+  role: Web Developer
+  duration: 2012
+  description: Burndown chart experiment with Trello API and Google Apps Script.
+
+- project: What the heck are they listening to?
+  url: https://github.com/peric/Whatheck
+  role: Web Developer
+  duration: 2012
+  description: Open source experiment with Google Charts and Last.fm API.
+
+- project: Zemages
+  role: Web Developer
+  duration: 2012
+  description: Hackday project made at Zemanta. HTML, CSS & JavaScript.
+
+- project: Various open source projects
+  role: Web Developer
+  duration: 2010 &mdash; Present
+  description: From time to time, I tend to contribute to some open source projects. i.e. laravel/framework, symfony2admingenerator/GeneratorBundle etc.
+
+- project: Moonlee Records
+  url: https://github.com/moonleerecords/moonlee-website
+  role: Web Developer
+  duration: 2011 &mdash; Present
+  description: I am maintaning Moonlee Records website since 2011. In 2017, we did a huge update and released new website that was built with Ruby on Rails/ES6 and was published as open source project to GitHub.
+
+- project: SVEjednoISTRA
+  url: https://vimeo.com/14357478
+  role: Recording / Idea
+  duration: 2010
+  description: Group video project made at video workshop within festival "Sedam dana stvaranja" in Pazin, Croatia.
+
+- project: Dead Space
+  role: Web Developer / Editor
+  duration: 2008 &mdash; 2010
+  description: After we have switched off Pazin Underground, I have decided to start a new webzine where the idea was to promote music and concerts on a bigger scale. Similar as Pazin Underground, it also evolved into a music label and distribution.
+
+- project: Pazin Underground
+  role: Web Developer / Editor
+  duration: 2005 &mdash; 2008
+  description: A small webzine/forum that used to promote local scene, events and bands. At some later point it also evolved into a small music label and music distribution. So I was voluntarily developing (with some help from a friend) and maintaining a website.
+
+- project: Amateur Photography
+  url: https://www.flickr.com/photos/dperic/albums/72157630262671842
+  role: Photographer
+  duration: 2005 &mdash; Present
+  description: I used to gain more interest in photography. I would not say that interest is lost, it is just not the same as it used to be.

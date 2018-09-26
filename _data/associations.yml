@@ -1,15 +1,23 @@
 # Associations
-# comment out the urls if you do not wish to display them
+- organization: T11 Sessions
+  role: Event Manager
+  year: 2016 &mdash; 2017
+  url: https://www.facebook.com/t11sessions/
+  summary: With a couple of friends, we have started to organize a series of free educational workshops, talks and presentations from various practical fields. As a first workshop, I did a "Introduction to web programming with JavaScript". After that, we did couple of more events and then stopped because life happens.
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Rails Girls Ljubljana
+  role: Mentor
+  year: 2014
+  url: http://railsgirls.si/
+  summary: A Rails Girls event happened in Ljubljana in 2014. I was a mentor together with bunch of other folks.
 
+- organization: Moonlee Records
+  role: Web Development / Social Media / Event Manager
+  year: 2011 &mdash; Present
+  url: https://www.moonleerecords.com/
+  summary: After I left some projects behind me and moved to Ljubljana, I started to help around Moonlee Records - a music label that I admired from before and that is still one of the best labels in ex-YU region. Most of my help is focused onto web presence aka web development and social media. I also occasionally help with event management in local clubs.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Klub Mladih Pazin
+  role: Web Developer / Promoter / Event Manager
+  year: 2005 &mdash; 2009
+  summary: I used to organize and help with organization of 30+ concerts in a small local venue, two festivals and couple of other cultural events. We were young and we wanted to feel good in our small city.

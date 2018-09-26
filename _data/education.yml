@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Computer Science
+  uni: University of Ljubljana
+  year: 2011 &mdash; 2015
+  summary: After a shorter break and some freelance jobs, I have moved from Pazin, Croatia to Ljubljana, Slovenia. Studies were two years long but it took me a bit more time since I was also working part-time (Zemanta, Astina). For my master's thesis, I wrote about <a href="http://eprints.fri.uni-lj.si/2906/" target="_blank">Modeling relation between technical parameters of web page design and its aestethics</a>. I have used a machine learning techincs in order to build a Chrome extension prototype that will give users the possibility to evaluate and analyze website design. Most of the tools I have built were published at my GitHub profile.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Informatics
+  uni: Polytechnic of Rijeka
+  year: 2006 &mdash; 2009
+  summary: During the (three years) studies I have started to work as a freelancer on a small scale projects. I was also running an independent music label, distribution and online magazine, and I was involved in local event managements (concerts, festivals and other cultural events). I have also needed to promote all this things somehow so I have started to learn web development on my own. As a project for my final thesis, I have built a VB.NET application that was/is used as a register for the soccer coach association of Istria, Croatia.
+
+- degree: Undergraduate Professional Study
+  uni: Polytechnic Pula
+  year: 2005 &mdash; 2006
+  summary: I have decided to quit after one year since I wanted to continue with a different programme that was more interesting for me.
+
+- degree: Electromechanical High School Diploma
+  uni: Gimnazija i strukovna škola Jurja Dobrile Pazin
+  year: 2005
