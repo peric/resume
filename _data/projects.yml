@@ -27,13 +27,7 @@
   url: http://peric.github.io/GetCountries/
   role: Web Developer
   duration: 2012 &mdash; Present
-  description: MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom Countries data. Project was born on a lazy Sunday afternoon - well, at least the first jQuery version of it. Instead of dealing with bigger picture problems, I have stumbled upon a problem and solved it by building this helper application. Same evening, I have wrote an article and published it on HackerNews - since then, project has received 320+ stars on GitHub and quite some contributers. In 2015, I did a complete rewrite by using React, which replaced most of ugly jQuery code.
-
-- project: Simple Dashboard (Zemanta)
-  url: http://youtu.be/XtyywGyEtpA
-  role: Web Developer
-  duration: 2012
-  description: I have made a simple dashboard that was showing some interesting data like retweets, shares, relates etc. I have used JS, JQuery, Google Charts, Django and data from Solr.
+  description: MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom Countries data. First version of that project was born one Sunday afternoon and it was built with jQuery. Instead of dealing with bigger picture problems, I have stumbled upon a problem and solved it with this application. Same evening, I wrote an article and published it on HackerNews - since then, project has received 320+ stars on GitHub and quite some contributers. In 2015, I made a complete rewrite using React, which replaced most of the initial jQuery code.
 
 - project: Trello burndown chart
   url: https://echobehind.wordpress.com/2012/06/28/create-your-own-burndown-chart-using-trello-api-and-google-apps-script/
@@ -61,7 +55,7 @@
   url: https://github.com/moonleerecords/moonlee-website
   role: Web Developer
   duration: 2011 &mdash; Present
-  description: I am maintaning Moonlee Records website since 2011. In 2017, we did a huge update and released new website that was built with Ruby on Rails/ES6 and was published as open source project to GitHub.
+  description: I have been maintaining the Moonlee Records website since 2011. In 2017, we did a huge update and released a new website that was built with Ruby on Rails/ES6 and was published as an open source project to GitHub.
 
 - project: SVEjednoISTRA
   url: https://vimeo.com/14357478
@@ -72,12 +66,12 @@
 - project: Dead Space
   role: Web Developer / Editor
   duration: 2008 &mdash; 2010
-  description: After we have switched off Pazin Underground, I have decided to start a new webzine where the idea was to promote music and concerts on a bigger scale. Similar as Pazin Underground, it also evolved into a music label and distribution.
+  description: After we turned off Pazin Underground, I decided to start a new webzine where main idea was to promote music and concerts on a bigger scale. Similar as Pazin Underground, it also later evolved into a music label and distribution.
 
 - project: Pazin Underground
   role: Web Developer / Editor
   duration: 2005 &mdash; 2008
-  description: A small webzine/forum that used to promote local scene, events and bands. At some later point it also evolved into a small music label and music distribution. So I was voluntarily developing (with some help from a friend) and maintaining a website.
+  description: Webzine/Forum that used to promote local scene, events and bands. At some later point it also evolved into a small music label and music distribution. I used to developed and maintained a website, with a help from couple of friends.
 
 - project: Amateur Photography
   url: https://www.flickr.com/photos/dperic/albums/72157630262671842
