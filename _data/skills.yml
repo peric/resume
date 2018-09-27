@@ -1,6 +1,6 @@
 # Skills
 - skill: Software Development
-  description: <ul><li>PHP (Laravel, Symfony)</li><li>Ruby (Ruby on Rails)</li><li>Python</li><li>Java</li><li>R</li><li>Matlab</li><li>Bash</li><li>Git</li><li>Databases (PostgreSQL, MySQL)</li><li>HTML</li><li>CSS, SCSS, SASS</li><li>JavaScript (ES6, React, Angular2, Ember, jQuery)</li><li>Vagrant</li><li>Docker</li><li>OS (MacOS, Linux)</li><li>JetBrains IDEs (Phpstorm, Datagrip, Rubymine, Goland)</li><li>Jenkins, CircleCI, Sentry etc</li><li>Grafana, Influx</li><li>Machine Learning</li></ul>
+  description: <ul><li>PHP (Laravel, Symfony)</li><li>Ruby (Ruby on Rails)</li><li>Python</li><li>Java</li><li>R</li><li>Matlab</li><li>Bash</li><li>Git</li><li>Databases (PostgreSQL, MySQL)</li><li>HTML</li><li>CSS, SCSS, SASS</li><li>JavaScript (ES6, React, Angular2, Ember, jQuery)</li><li>Vagrant</li><li>Docker</li><li>OS (MacOS, Linux)</li><li>JetBrains IDEs (Phpstorm, Datagrip, Rubymine, Goland)</li><li>CI, CD (Jenkins, CircleCI, Sentry etc)</li><li>Grafana, Influx</li><li>Machine Learning</li></ul>
 
 - skill: Want to learn aka learning in progress
   description: <ul><li>Go</li><li>Vue.js</li></ul>
