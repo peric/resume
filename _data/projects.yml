@@ -3,78 +3,56 @@
   url: https://github.com/peric/capistrano-jspm
   role: Web Developer
   duration: 2016
-  description: Capistrano extension for jspm (native ES modules CDN).
+  description: A Capistrano extension for jspm (native ES modules CDN).
 
 - project: flasknose
   url: https://github.com/peric/flasknose
   role: Web Developer
   duration: 2014 &mdash; 2015
-  description: Chrome extension that can analyse, evaluate and give useful recommendations for given website. Built for the purpose of master's thesis.
+  description: A Chrome extension that can analyse, evaluate and give useful recommendations for a given website. Built as a part of my Master's thesis.
 
 - project: wparser
   url: https://github.com/peric/wparser
   role: Web Developer
   duration: 2014
-  description: Website parser built with PhantomJS/Python built for the purpose of master's thesis.
+  description: A website parser built with PhantomJS/Python. Built as a part of my Master's thesis.
 
 - project: Wote
   url: http://woteapp.herokuapp.com/
   role: Web Developer
   duration: 2014
-  description: Voting app that helped me to collect data for my master's thesis - built with Ruby on Rails.
+  description: A voting app that helped me to collect data for my Master's thesis, built with Ruby on Rails.
 
 - project: GetCountries
   url: http://peric.github.io/GetCountries/
   role: Web Developer
   duration: 2012 &mdash; Present
-  description: MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom Countries data. First version of that project was born one Sunday afternoon and it was built with jQuery. Instead of dealing with bigger picture problems, I have stumbled upon a problem and solved it with this application. Same evening, I wrote an article and published it on HackerNews - since then, project has received 320+ stars on GitHub and gained couple of contributers. In 2015, I made a complete rewrite using React, which replaced most of the initial jQuery code.
+  description: A MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom countries data. The first version was built with jQuery in one day. That same evening, I wrote an article and published it on HackerNews. Since then, project has received 320+ stars on GitHub and gained couple of contributors. In 2015, I made a complete rewrite using React, which replaced most of the initial jQuery code.
 
 - project: Trello burndown chart
   url: https://echobehind.wordpress.com/2012/06/28/create-your-own-burndown-chart-using-trello-api-and-google-apps-script/
   role: Web Developer
   duration: 2012
-  description: Burndown chart experiment with Trello API and Google Apps Script.
+  description: A burndown chart experiment with Trello API and Google Apps Script.
 
 - project: What the heck are they listening to?
   url: https://github.com/peric/Whatheck
   role: Web Developer
   duration: 2012
-  description: Open source experiment with Google Charts and Last.fm API.
+  description: An open source experiment with Google Charts and Last.fm API.
 
 - project: Zemages
   role: Web Developer
   duration: 2012
-  description: Hackday project made at Zemanta. HTML, CSS & JavaScript.
+  description: A Hackday project made at Zemanta using HTML, CSS and JavaScript.
 
 - project: Various open source projects
   role: Web Developer
   duration: 2010 &mdash; Present
-  description: From time to time, I tend to contribute to some open source projects. i.e. laravel/framework, symfony2admingenerator/GeneratorBundle etc.
+  description: From time to time, I contribute to various open source projects, i.e. laravel/framework, symfony2admingenerator/GeneratorBundle etc.
 
 - project: Moonlee Records
   url: https://github.com/moonleerecords/moonlee-website
   role: Web Developer
   duration: 2011 &mdash; Present
   description: I have been maintaining the Moonlee Records website since 2011. In 2017, we did a huge update and released a new website that was built with Ruby on Rails/ES6 and was published as an open source project to GitHub.
-
-- project: SVEjednoISTRA
-  url: https://vimeo.com/14357478
-  role: Recording / Idea
-  duration: 2010
-  description: Group video project made at video workshop within festival "Sedam dana stvaranja" in Pazin, Croatia.
-
-- project: Dead Space
-  role: Web Developer / Editor
-  duration: 2008 &mdash; 2010
-  description: After we turned off Pazin Underground, I decided to start a new webzine where main idea was to promote music and concerts on a bigger scale. Similar as Pazin Underground, it also later evolved into a music label and distribution.
-
-- project: Pazin Underground
-  role: Web Developer / Editor
-  duration: 2005 &mdash; 2008
-  description: Webzine that used to promote local cultural scene, events and bands. At some later point it also evolved into a small music label and music distribution. I used to developed and maintained a website, with a help from couple of friends.
-
-- project: Amateur Photography
-  url: https://www.flickr.com/photos/dperic/albums/72157630262671842
-  role: Photographer
-  duration: 2005 &mdash; Present
-  description: I used to gain more interest in photography. I would not say that interest is lost, it is just not the same as it used to be.

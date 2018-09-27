@@ -4,58 +4,58 @@
   position: Full Stack Developer
   duration: Jul 2016 &mdash; Oct 2018
   location: Ljubljana, Slovenia
-  summary: GoAvio was meant to combine millions of low-cost flights, buses and trains in order to find the cheaper and faster routes. I was involved from the point where we had a clear idea about how we want to carry out our product and it was a great experience altogether. I took care of data integration (API/scraping), development of internal API, features for B2B customers and back office maintenance. Technologies involved are PHP (Laravel, Lumen), Angular2 (for back office application), Postgres (database was our UI), Redis, AWS, Docker, Vagrant, Grafana, InfluxDB etc. In the latest stage, part of the team was starting to build some microservices with Go lang, so I also got involved in Go learning.
+  summary: GoAvio was meant to combine millions of low-cost flights, buses and trains in order to find the cheaper and faster routes. I was involved from the point where we had a clear idea about how we want to carry out our product, and it was a great experience altogether. I took care of data integration (API/scraping), development of internal API, features for B2B customers and back office maintenance. The technologies involved were PHP (Laravel, Lumen), Angular2 (for back office application), Postgres (the database was our UI), Redis, AWS, Docker, Vagrant, Grafana, InfluxDB etc. In the latest stage, a part of the team was starting to build various microservices with Go lang, so I also got involved in Go learning.
 
 - company: Audienti
   url: https://audienti.com/
   position: Full Stack Developer
   duration: Aug 2015 &mdash; Mar 2016
   location: Remote
-  summary: Development of marketing automation solution based on Ruby on Rails. Development involved scraping of social media (Twitter, Facebook etc), data analysis, scheduling etc. Alongside with RoR, we also used Elasticsearch for indexing and Redis for caching.
+  summary: Development of marketing automation solution based on Ruby on Rails. Development involved scraping of social media (Twitter, Facebook etc), data analysis, scheduling etc. Alongside RoR, we also used Elasticsearch for indexing and Redis for caching.
 
 - company: Astina AG
   url: https://www.astina.ch/
   position: Full Stack Developer
   duration: Dec 2012 &mdash; Aug 2015
   location: Ljubljana, Slovenia
-  summary: Astina is a swiss web agency. I worked on 15+ projects, from large-scale (like babymueller.ch, fuji.ch, rheintaler.ch, zfv.ch, jelmoli.ch etc) to small-scale (like www.bullinger-ivpz.ch, www.valais.ch etc). Most of the applications were built with Symfony2 (PHP framework), but this is also where I started to learn Ruby and Ruby on Rails (thanks to my coworker). We used some open source libraries and I also had the chance to contribute to some of those. Since we had dedicated front-end developers, I was also introduced to the modern (well, at least in that time) front-end technologies like Grunt, SASS, Compass, Bower etc. As a developers, we were closely involved in the development process (workflows, plannings etc) and I also had a chance to organize internal monthly tech talks. At first I started to work part-time (because of my studies), and then slowly moving to full-time.
+  summary: Astina is a Swiss web agency. I worked on 15+ projects, from large-scale (babymueller.ch, fuji.ch, rheintaler.ch, zfv.ch, jelmoli.ch etc.) to small-scale (www.bullinger-ivpz.ch, www.valais.ch etc.). Most of the applications were built with Symfony2 (PHP framework), but I also started to learn Ruby and Ruby on Rails here. We used open source libraries and I also had the chance to contribute to some of those. Since we had dedicated front-end developers, I was also introduced to the modern (well, at least at that time) front-end technologies such as Grunt, SASS, Compass, Bower etc. As developers, we were closely involved in the development process (workflows, planning etc.) and I also had a chance to organize internal monthly tech talks. At first I worked part-time due to my studies, then I gradually moved to full-time.
 
 - company: Zemanta
   url: http://www.zemanta.com/
   position: Software tester (part-time)
   duration: Oct 2011 &mdash; Jun 2012
   location: Ljubljana, Slovenia
-  summary: Zemanta - startup pioneer that inspired a lot of people and build a nice IT community here in Slovenia. When I got the offer to work there, I cound not refuse because I wanted to be the part of the team, even though it was not the position that I was really excited about. My main job was to test and report front-end issues with front-end functionalities, but also being involved in the customer support, improvement and optimization of testing process etc. For a short period I was also working on the in-house project built with Django framework that we used to plan and execute Scrum sprints - soon after that we discovered and started using Trello. For some time, I have also wrote and used Python parsers to collect data from various websites and I also worked on few a other experiments during the internal Hackdays. This job was part-time since I needed a lot extra time for my studies.
+  summary: Zemanta is a start-up pioneer that inspired a lot of people and built a nice IT community in Slovenia. When I got the offer to work there, I could not refuse, as I wanted to be a part of the team, even though it was not a position I was really excited about. My main job was to test and report front-end issues with front-end functionalities, but I was also involved in customer support, the improvement and optimization of testing processes etc. For a short period, I also worked on the in-house project built with the Django framework, which we used to plan and execute Scrum sprints for a short period of time. I also wrote and used Python parsers to collect data from various websites, and I worked on a few other experiments during the internal Hackdays.
 
 - company: Middlemachine
   url: https://totalism.org/
   position: Front-end Developer
   duration: Jul 2011 &mdash; Oct 2011
   location: Ljubljana, Slovenia
-  summary: After I left Globus Marine International, I found a project I thought could be interesting for me. For a couple of months, I worked on the front-end enhancements (JS/HTML/CSS) of a product that never went live.
+  summary: For a couple of months, I worked on the front-end enhancements (JS/HTML/CSS) of a product that unfortunately never went live, though it seemed interesting when I first came onboard.
 
 - company: Globus Marine International
   url: http://www.gmi.si/
   position: Junior Web Developer
   duration: Oct 2010 &mdash; Jul 2011
   location: Ljubljana, Slovenia
-  summary: Development and maintenance of ASP.NET/C# web application used by financial leasing companies. This is also the year I moved to Slovenia and my first experience with a development position in Slovenia. I left company after 10 months since I enrolled at the Faculty of Computer and Information Science (master's programme) in Ljubljana.
+  summary: Development and maintenance of the ASP.NET/C# web application used by financial leasing companies. This is also the year I moved to Slovenia and received first experience with a development position there. I left the company after 10 months due to enrolling in an M. Sc. programme at the Faculty of Computer and Information Science in Ljubljana.
 
 - company: Actual I.T.
   url: http://www.actual.hr/
   position: Software Engineer (intern)
   duration: 2010 &mdash; 2010
   location: Remote / Žminj, Croatia
-  summary: As a project for my final thesis (bachelor's degree in Rijeka), I built a VB.NET application that was/is used as a register for the soccer coach association of Istria, Croatia. I had mentors in Actual I.T. but mainly worked from home.
+  summary: As a project for my final thesis (B. Sc. in Rijeka), I built a VB.NET application that is used as a register for the soccer coach association of Istria, Croatia. I had mentors at Actual I.T., but mainly worked from home.
 
 - company: Make.hr
   url: http://www.make.hr/
-  position: Junior Front-end Developer
+  position: Junior Front-end Developer (part-time)
   duration: 2009 &mdash; 2010
   location: Remote
-  summary: Part time job where I mostly did HTML/CSS for static web pages.
+  summary: I mostly did HTML/CSS for static web pages.
 
 - company: Other
-  position: Waiter, Ticket vendor, etc
+  position: Waiter, Ticket vendor, etc.
   duration: until 2009
-  summary: Like many of us, I used to have (summer) jobs while I was in high school and during my studies.
+  summary: Like many of us, I used to have (summer) jobs while I was in high school and during my university studies.
