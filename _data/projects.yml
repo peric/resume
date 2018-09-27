@@ -27,7 +27,7 @@
   url: http://peric.github.io/GetCountries/
   role: Web Developer
   duration: 2012 &mdash; Present
-  description: MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom Countries data. First version of that project was born one Sunday afternoon and it was built with jQuery. Instead of dealing with bigger picture problems, I have stumbled upon a problem and solved it with this application. Same evening, I wrote an article and published it on HackerNews - since then, project has received 320+ stars on GitHub and quite some contributers. In 2015, I made a complete rewrite using React, which replaced most of the initial jQuery code.
+  description: MySQL, Firebird, XML, JSON, CSV or YAML open source generator for custom Countries data. First version of that project was born one Sunday afternoon and it was built with jQuery. Instead of dealing with bigger picture problems, I have stumbled upon a problem and solved it with this application. Same evening, I wrote an article and published it on HackerNews - since then, project has received 320+ stars on GitHub and gained couple of contributers. In 2015, I made a complete rewrite using React, which replaced most of the initial jQuery code.
 
 - project: Trello burndown chart
   url: https://echobehind.wordpress.com/2012/06/28/create-your-own-burndown-chart-using-trello-api-and-google-apps-script/

@@ -4,7 +4,7 @@
   position: Full Stack Developer
   duration: Jul 2016 &mdash; Oct 2018
   location: Ljubljana, Slovenia
-  summary: GoAvio was meant to combine millions of low-cost flights, buses and trains in order to find the cheapest and fastest way to a destination. I was there from the point where we had a clear idea about how we want to carry out our product and it was a great journey. I took care of data integration (API/scraping), development of internal API, features for B2B customers and back office maintenance. Technologies involved are PHP (Laravel, Lumen), Angular2 (for back office application), Postgres (database was our UI), Redis, AWS, Docker, Vagrant, Grafana, InfluxDB etc. In the latest stage, part of the team was starting to build some microservices with Go lang, so I also got involved in Go learning.
+  summary: GoAvio was meant to combine millions of low-cost flights, buses and trains in order to find the cheaper and faster routes. I was involved from the point where we had a clear idea about how we want to carry out our product and it was a great experience altogether. I took care of data integration (API/scraping), development of internal API, features for B2B customers and back office maintenance. Technologies involved are PHP (Laravel, Lumen), Angular2 (for back office application), Postgres (database was our UI), Redis, AWS, Docker, Vagrant, Grafana, InfluxDB etc. In the latest stage, part of the team was starting to build some microservices with Go lang, so I also got involved in Go learning.
 
 - company: Audienti
   url: https://audienti.com/
@@ -25,7 +25,7 @@
   position: Software tester (part-time)
   duration: Oct 2011 &mdash; Jun 2012
   location: Ljubljana, Slovenia
-  summary: Zemanta - startup pioneer that inspired a lot of people and build a nice IT community here in Slovenia. When I got the offer to work there, I couldn't refuse because I wanted to be the part of the team, even though it was not the position that I really wanted to. My main job was to test and report front-end issues with front-end functionalities, but also being involved in the customer support, improvement and optimization of testing process etc. For a short period I was also working on the in-house project built with Django framework that we used to plan and execute Scrum sprints - soon after that we discovered and started using Trello. For some time, I have also wrote and used Python parsers to collect data from various websites and I also worked on few a other experiments during the internal Hackdays. This job was part-time since I needed a lot extra time for my studies.
+  summary: Zemanta - startup pioneer that inspired a lot of people and build a nice IT community here in Slovenia. When I got the offer to work there, I cound not refuse because I wanted to be the part of the team, even though it was not the position that I was really excited about. My main job was to test and report front-end issues with front-end functionalities, but also being involved in the customer support, improvement and optimization of testing process etc. For a short period I was also working on the in-house project built with Django framework that we used to plan and execute Scrum sprints - soon after that we discovered and started using Trello. For some time, I have also wrote and used Python parsers to collect data from various websites and I also worked on few a other experiments during the internal Hackdays. This job was part-time since I needed a lot extra time for my studies.
 
 - company: Middlemachine
   url: https://totalism.org/
