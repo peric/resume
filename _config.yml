@@ -28,22 +28,16 @@ display_header_contact_info:    "true"
 
 current_status: "<strong>I am open to new opportunities and available from 2nd of November 2018</strong>"
 
-resume_header_intro: "<p>10+ years' experience in web development, where over the last couple of years, I have worked mostly with <strong>PHP</strong> (Laravel, Symfony2) and <strong>Ruby</strong> (Ruby On Rails) while developing back-end solutions. On the front-end side I have been mostly using pure <strong>JavaScript</strong>, <strong>Angular2</strong> and <strong>React</strong>. My relational database of choice is <strong>PostgreSQL</strong>, I am using <strong>Vagrant</strong> and <strong>Docker</strong> for development, I love <strong>JetBrains</strong> IDE solutions and I do not have any problems with writing scripts and helpers in <strong>Bash</strong>, <strong>Python</strong> or whatever will do the job.</p>
+resume_header_intro: "<p>10+ years' experience in web development, where over the last couple of years, I have worked mostly with <strong>PHP</strong> (Laravel, Symfony2) and <strong>Ruby</strong> (Ruby On Rails) while developing back-end solutions. On the front-end side I have been mostly using pure <strong>JavaScript</strong>, <strong>Angular2</strong> and <strong>React</strong>. My relational database of choice is <strong>PostgreSQL</strong>, I am using <strong>Vagrant</strong> and <strong>Docker</strong> for development and I do not have any problems with writing scripts and helpers in <strong>Bash</strong>, <strong>Python</strong> or whatever will do the job. At the moment, I am learning the <strong>Go</strong> programming language and I would like to gain some experience with <strong>Vue.js</strong>.</p>
 
-                                <p>At the moment, I am learning the <strong>Go</strong> programming language and I would like to gain some experience with <strong>Vue.js</strong> – preferably, this would also be my future stack of choice.</p>
-
-                                <p>I have experience with <strong>agile software development</strong> (Scrum, Kanban). I believe that a big and important part of software development is done before the actual coding process and that a proper development workflow can yield many benefits for both team and the product.</p>
-
-                                <p>My current knowledge base largely depends on my experience in the past few years. Things are moving fast in the world of web development and you can easily lose track of certain technology. But if you are an experienced developer you can easily get back on track or gain new experience. Therefore, I do not regard my potential lack of knowledge about a specific topic at the moment as an issue, as I am able to learn new things easily, especially if they are fun and challenging.</p>
-
-                                <p>I love software development, especially that feeling of building things from scratch and solving problems. And with more knowledge, you get more power and unlimited possibilities. Nevertheless, I like a dynamic lifestyle and I am therefore also passionate about other things that are not related to programming - technology, music, art and multiple indoor and outdoor activities are just a few of them.</p>"
+                      <p>I have experience with <strong>agile software development</strong> (Scrum, Kanban). I believe that a big and important part of software development is done before the actual coding process and that a proper development workflow can yield many benefits for both team and the product. I am competent in leading project sprints and planning as well as task management.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
 resume_looking_for_work:        "yes"
-resume_looking_for_work_additional_info: "<p>I am searching for inspiring and interesting people to work with. I prefer working on a product that I can relate to and that I will enjoy developing. I am based in Ljubljana, I prefer flexible working and I do not have problems with working remotely as long as it is between 8am and 5pm CET/CEST. I also appreciate having some time for myself and for the people around me, in order to have a balanced life.</p>"
+resume_looking_for_work_additional_info: "<p>I am searching for inspiring and interesting people to work with on a product that I can relate to. I am based in Ljubljana, I prefer flexible working and I do not have problems with working remotely. I also appreciate having time for myself and for the people around me, in order to have a balanced life. My current knowledge base largely depends on my experience in the past few years. Therefore, I do not regard my potential lack of knowledge about a specific topic at the moment as an issue, as I am able to learn new things easily, especially when they are challenging and fun.</p>"
 
 # Decide which sections to use
 # comment out to hide

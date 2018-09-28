@@ -41,11 +41,6 @@
   duration: 2012
   description: An open source experiment with Google Charts and Last.fm API.
 
-- project: Zemages
-  role: Web Developer
-  duration: 2012
-  description: A Hackday project made at Zemanta using HTML, CSS and JavaScript.
-
 - project: Various open source projects
   role: Web Developer
   duration: 2010 &mdash; Present

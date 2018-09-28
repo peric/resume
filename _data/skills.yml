@@ -1,9 +1,9 @@
 # Skills
 - skill: Software Development
-  description: <ul><li>PHP (Laravel, Symfony)</li><li>Ruby (Ruby on Rails)</li><li>Python</li><li>Java</li><li>R</li><li>Matlab</li><li>Bash</li><li>Git</li><li>Databases (PostgreSQL, MySQL)</li><li>HTML</li><li>CSS, SCSS, SASS</li><li>JavaScript (ES6, React, Angular2, Ember, jQuery)</li><li>Vagrant</li><li>Docker</li><li>OS (MacOS, Linux)</li><li>JetBrains IDEs (Phpstorm, Datagrip, Rubymine, Goland)</li><li>CI, CD (Jenkins, CircleCI, Sentry etc)</li><li>Grafana, Influx</li><li>Machine Learning</li><li>User experience</li><li>Creativity</li></ul>
+  description: <ul><li>PHP (Laravel, Symfony)</li><li>Ruby (Ruby on Rails)</li><li>Python</li><li>Java</li><li>R</li><li>Matlab</li><li>Bash</li><li>Git</li><li>Databases (PostgreSQL, MySQL)</li><li>JavaScript (ES6, React, Angular2, Ember, jQuery)</li><li>Vagrant</li><li>Docker</li><li>JetBrains IDEs (Phpstorm, Datagrip, Rubymine, Goland)</li><li>CI, CD (Jenkins, CircleCI)</li><li>Grafana, Influx</li><li>Machine Learning</li><li>User experience</li><li>Creativity</li></ul>
 
 - skill: Want to learn aka learning in progress
   description: <ul><li>Go</li><li>Vue.js</li></ul>
 
 - skill: Agile Team and Project Management
-  description: Good knowledge of agile project development processes like Scrum or Kanban. From my experience, there is no perfect predefined process that fits every organization, but this is something that should be incrementally developed and improved – just like software. I have some experience with implementing workflows and functionalities in Jira, but I do not mind using any other project management tool, as long as it covers all the needs. I also have experience with leading sprints, organizing meetings and with organizing internal events such as tech talks and hackdays.
+  description: Good knowledge of agile project development processes like Scrum or Kanban. From my experience, there is no perfect predefined process that fits every organization, but this is something that should be incrementally developed and improved – just like software. I have some experience with implementing workflows and functionalities in Jira, but I do not mind using any other project management tool, as long as it covers all the needs. I also have experience with leading sprints, organizing meetings and events such as tech talks and hackdays.
