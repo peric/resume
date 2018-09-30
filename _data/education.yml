@@ -2,6 +2,7 @@
 - degree: Master of Computer Science
   uni: University of Ljubljana
   year: 2011 &mdash; 2015
+#  summary: <ul><li>Master's thesis <a href="http://eprints.fri.uni-lj.si/2906/" target="_blank">Modeling relation between technical parameters of web page design and its aestethics</a></li><li>Machine learning etc</li></ul>
   summary: For my Master's thesis, <a href="http://eprints.fri.uni-lj.si/2906/" target="_blank">Modeling relation between technical parameters of web page design and its aestethics</a>, I used a machine learning technique in order to build a Chrome extension that allows users to evaluate and analyze website design.
 
 - degree: Bachelor of Informatics
@@ -11,7 +12,7 @@
 
 - degree: Undergraduate Professional Study
   uni: Polytechnic Pula
-  year: 2005 &mdash; 2006
+  year: 2005 &mdash; 2006 (dropped out)
 
 - degree: Electromechanical High School Diploma
   uni: Gimnazija i strukovna škola Jurja Dobrile Pazin
