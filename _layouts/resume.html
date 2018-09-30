@@ -128,7 +128,8 @@
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
             <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
-            <h4 class="resume-item-details group" itemprop="description">{{ education.degree }}{%if education.year %} &bull; {{ education.year }}{% endif %}</h4>
+            <h4 class="resume-item-details group" itemprop="description">{{ education.degree }}{%if education.year %}
+                                                                         &bull; {{ education.year }}{% endif %}</h4>
             <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
             <p class="resume-item-copy" itemprop="description">
             <ul class="resume-item-list">
@@ -176,7 +177,8 @@
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
             <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person"/>
-            <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" target="_blank"
+            <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}"
+                                                                                 target="_blank"
                                                                                  itemprop="url">{{ project.project
                                                                                                 }}</a>{% else %}{{
                                                           project.project }}{% endif %}</h3>
@@ -303,13 +305,17 @@
     <!-- end Print Social Links -->
     {% endif %}
 
-    <footer class="page-footer no-print">
-        <p class="footer-line">Spotted a typo or grammar mistake? Feel free to fix it on <a
-                href="https://github.com/peric/resume">GitHub</a>. Thank you :)</p>
+    <footer class="page-footer">
+        <p class="footer-line no-print">Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. Hosted on
+            <a href="https://github.com/peric/resume">GitHub</a>.</p>
+        <p class="footer-line print-only">
+            Find latest resume at <u>https://peric.github.io/resume/</u>
+        </p>
     </footer>
 
-    <a href="javascript: window.print();" class="contact-button no-print" title="Save as PDF or Printi" itemprop="email">Save as PDF</a>
-
+    <a href="javascript: window.print();" class="contact-button no-print" title="Save as PDF or Print" itemprop="email">Save
+                                                                                                                        as
+                                                                                                                        PDF</a>
 </div>
 
 </body>
