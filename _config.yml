@@ -26,7 +26,7 @@ display_header_location_info: "true"
 resume_header_contact_info:     "+386 30 635 519 • peric.drazhen@gmail.com"
 display_header_contact_info:    "true"
 
-current_status: "<strong>I am open to new opportunities and available from 2nd of November 2018</strong>"
+current_status: "<strong>I am currently open to new job opportunities</strong>"
 
 resume_header_intro: "<p>10+ years' experience in web development, where over the last couple of years, I have worked mostly with <strong>PHP</strong> (Laravel, Symfony2) and <strong>Ruby</strong> (Ruby On Rails) while developing back-end solutions. On the front-end side I have been mostly using pure <strong>JavaScript</strong>, <strong>Angular2</strong> and <strong>React</strong>. My relational database of choice is <strong>PostgreSQL</strong>, I am using <strong>Vagrant</strong> and <strong>Docker</strong> for development and I do not have any problems with writing scripts and helpers in <strong>Bash</strong>, <strong>Python</strong> or whatever will do the job. At the moment, I am learning the <strong>Go</strong> programming language and I would like to gain some experience with <strong>Vue.js</strong>.</p>
 
