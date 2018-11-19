@@ -36,7 +36,7 @@ resume_header_intro: "<p>10+ years' experience in web development, where over th
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "no"
 resume_looking_for_work_additional_info: "<p>I am searching for inspiring and interesting people to work with on a product that I can relate to. I am based in Ljubljana, I prefer flexible working and I do not have problems with working remotely. I also appreciate having time for myself and for the people around me, in order to have a balanced life. My current knowledge base largely depends on my experience in the past few years. Therefore, I do not regard my potential lack of knowledge about a specific topic at the moment as an issue, as I am able to learn new things easily, especially when they are challenging and fun.</p>"
 
 # Decide which sections to use
