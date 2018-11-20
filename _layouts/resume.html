@@ -33,7 +33,7 @@
         </div>
         {% endif %}
 
-        {% if site.current_status && site.resume_looking_for_work == 'yes' %}
+        {% if site.resume_looking_for_work == 'yes' and site.current_status %}
             <div class="header-contact-info no-print">
                 <p>{{ site.current_status }}</p>
             </div>
