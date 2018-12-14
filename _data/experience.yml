@@ -1,10 +1,14 @@
 # Jobs
+- company: Kiwi.com
+  url: https://www.kiwi.com/
+  position: Infrastructure Platform Engineer
+  duration: Nov 2018 - Present
+
 - company: GoAvio
   url: https://goavio.com/
   position: Full Stack Developer
   duration: Jul 2016 &mdash; Oct 2018
   location: Ljubljana, Slovenia
-#  summary: <ul><li>Full stack developer and ...</li><li>Managing sprints and sprint meetings</li><li>PHP (Laravel, Lumen), Angular2, Postgres, Redis, AWS, Docker, Vagrant, Grafana, InfluxDB, etc.</li></ul>
   summary: GoAvio was meant to combine millions of low-cost flights, buses and trains in order to find cheaper and faster routes. I took care of data integration (API/scraping), API development, features for B2B customers and back office maintenance (CS functionalities, data analysis and KPI views). The technologies involved were PHP (Laravel, Lumen), Angular2 (for back office application), Postgres (the database was our UI), Redis, AWS, Docker, Vagrant, Grafana, InfluxDB etc. In the latest stage, a part of the team was starting to build various microservices with Go lang, so I also got involved in Go learning.
 
 - company: Audienti
