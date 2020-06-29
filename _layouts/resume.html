@@ -154,13 +154,33 @@
     <section class="content-section">
 
         <header class="section-header">
-            <h2>Courses / Trainings</h2>
+            <h2>Courses & Conferences</h2>
         </header>
 
         <div class="resume-item">
             <ul class="resume-item-list">
                 {% for course in site.data.courses %}
                 <li>{{ course.description }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+    </section>
+    <!-- end Courses -->
+    {% endif %}
+
+    {% if site.resume_section_courses %}
+    <!-- begin Talks -->
+    <section class="content-section">
+
+        <header class="section-header">
+            <h2>Talks</h2>
+        </header>
+
+        <div class="resume-item">
+            <ul class="resume-item-list">
+                {% for talk in site.data.talks %}
+                <li>{{ talk.description }}</li>
                 {% endfor %}
             </ul>
         </div>

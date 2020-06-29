@@ -1,4 +1,10 @@
 # Projects
+- project: consul
+  url: https://github.com/danesjenovdan/consul
+  role: Web Developer
+  duration: 2019
+  description: Consul is an OS solution devoleped for citizen participation and open government applications. Together with Danes Je Nov Dan, we adapted Consul for Slovenian municipalities (Koper, Hrpelje-Kozina etc).
+
 - project: capistrano-jspm
   url: https://github.com/peric/capistrano-jspm
   role: Web Developer
