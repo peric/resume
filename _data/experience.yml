@@ -4,7 +4,7 @@
   position: Infrastructure Platform Engineer
   duration: Nov 2018 - Present
   location: Ljubljana, Slovenia
-  summary: Developing software solutions to increase the productivity of developers from an infrastructure point of view. AWS, Google Cloud, Serverless, Terraform, Kubernetes etc.
+  summary: Developing software solutions to increase productivity of developers from an infrastructure point of view. AWS, Google Cloud, Serverless, Terraform, Vault, Kubernetes etc. Development and Maintenance of internal Serverless framework, GCP migrations, Elasticsearch migrations, Terraform migrations, CI/CD improvements, infrastructure-related Lambda, Cloud Functions and Cloud Run helpers, Datadog monitoring integrations, guidance and education of developers etc.
 
 - company: GoAvio
   url: https://goavio.com/
